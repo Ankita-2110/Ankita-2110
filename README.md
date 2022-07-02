@@ -3,9 +3,7 @@
          height="45"
          width="45" /> I'm Ankita Tambake</h1>
          
-
-
-<h3>👩🏻‍💻 &nbsp;About Me </h3>
+# 💫 About Me :
 - 😄 Pronouns: She/Her
 - 🎓 &nbsp; Studying Computer Science Engineering at N. K. Orchid College of Engineering & Technology, Solapur.
 - 💻 &nbsp; Seeking a job to pursue a highly rewarding career and healthy work environment where I can utilize my skills and knowledge efficiently for organizational growth.
@@ -13,8 +11,7 @@
 - 🎯 &nbsp; My goal is to get placed in a good company with handsome package.
 - 🌱 &nbsp; Hardworking, Attentive Listener, Self-Motivated
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
+## 💻 Tech Stack
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -35,7 +32,7 @@
 
 <br/>
 
-🤝🏻 &nbsp;**Connect with Me** 
+## 🤝 Connect with me 
 - [Gmail](mailto:ankitatambake123@gmail.com) -ankitatambake123@gmail.com <br/>
 - Phone - +918459060485 <br/>
 
