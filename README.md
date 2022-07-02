@@ -1,18 +1,12 @@
-### Hola, 
-Waving hand animated gif
- I'm Pawan Kumar
+<h1 align="center">Hi 👋, I'm Ankita Tambake</h1>
+<h3 align="center">👩🏻‍💻 About Me 🎓 Studying Computer Science Engineering at N. K. Orchid College of Engineering & Technology, Solapur. 💻 I’m interested in Web Development, Software development, Full Stack Development. 🔭 I’m currently working on improving my DS & Algorithms. 🎯 My goal is to get placed in a good company with handsome package. 🌱 I'm very eager to learn new technologies.</h3>
 
-<!--
-**Ankita-2110/Ankita-2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **ankitatambake123@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ankitatambake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitatambake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankita tambake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita tambake" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita_tambake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankita_tambake" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
