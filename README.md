@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Ankita Tambake</h1>
+         
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankita-2110&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ankita" /> </p>
 
 <h3>👩🏻‍💻 &nbsp;About Me </h3>
 
