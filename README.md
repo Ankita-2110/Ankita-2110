@@ -3,10 +3,10 @@
          height="45"
          width="45" /> I'm Ankita Tambake</h1>
          
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankita-2110&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ankita" /> </p>
+
 
 <h3>👩🏻‍💻 &nbsp;About Me </h3>
-
+- 😄 Pronouns: She/Her
 - 🎓 &nbsp; Studying Computer Science Engineering at N. K. Orchid College of Engineering & Technology, Solapur.
 - 💻 &nbsp; Seeking a job to pursue a highly rewarding career and healthy work environment where I can utilize my skills and knowledge efficiently for organizational growth.
 - 🔭 &nbsp; I’m currently working on improving my DS & Algorithms. 
@@ -38,10 +38,10 @@
 🤝🏻 &nbsp;**Connect with Me** 
 - [Gmail](mailto:ankitatambake123@gmail.com) -ankitatambake123@gmail.com <br/>
 - Phone - +918459060485 <br/>
-- [LinkedIn](https://www.linkedin.com/in/ankita-tambake-7139231a0)<br/>
-- [Instagram](https://www.instagram.com/ankita_tambake/)<br/>
 
-
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankita_tambake/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-tambake-7139231a0)
 
 ⭐️ From [Ankita Tambake](https://github.com/Ankita-2110)
 
