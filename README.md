@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankita Tambake</h1>
-<h3 align="center">👩🏻‍💻 About Me <br>🎓 Studying Computer Science Engineering at N. K. Orchid College of Engineering & Technology, Solapur. <br>💻 I’m interested in Web Development, Software development, Full Stack Development. <br>🔭 I’m currently working on improving my DS & Algorithms. <br>🎯 My goal is to get placed in a good company with handsome package. <br>🌱 I'm very eager to learn new technologies.</h3>
+<h1 align="center">Hi 👋, I'm Ankita Tambake</h1><br>
+<h5 align="center">👩🏻‍💻 About Me <br>🎓 Studying Computer Science Engineering at N. K. Orchid College of Engineering & Technology, Solapur. <br>💻 I’m interested in Web Development, Software development, Full Stack Development. <br>🔭 I’m currently working on improving my DS & Algorithms. <br>🎯 My goal is to get placed in a good company with handsome package. <br>🌱 I'm very eager to learn new technologies.</h3>
 <br>
 - 📫 How to reach me **ankitatambake123@gmail.com**
 <br>
